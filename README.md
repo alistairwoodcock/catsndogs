@@ -1,4 +1,4 @@
-# catsndogs
+# Cats n Dogs
 
 A new Flutter project.
 
